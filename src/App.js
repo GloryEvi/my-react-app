@@ -60,8 +60,7 @@ function App() {
           </a>
           is
           <a
-            href="
-            https://github.com/GloryEvi/"
+            href="https://github.com/GloryEvi/my-react-app"
             target="blank"
             rel="noreferrer"
           >
